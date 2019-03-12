@@ -30,7 +30,7 @@ p{
 .about{
   background-color: white;
   width: 100vw;
-  padding:20px;
+  padding:50px;
 
 }
 .another{
@@ -38,5 +38,5 @@ p{
   background-color: white;
   width: 100vw;
   justify-content: center;
-  padding:20px;
+  padding:50px;
 }
